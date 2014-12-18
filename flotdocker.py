@@ -1,7 +1,7 @@
 """
-special tricks for opening flotilla with docker in OS X
+special tricks for opening flotilla with docker in OS X - hacked for linux
 
-for linux, this needs to use sudo
+for linux, this needs to use sudo - or user added to docker group
 """
 
 import time
